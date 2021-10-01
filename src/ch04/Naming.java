@@ -17,5 +17,9 @@ public class Naming {
 
         // 케밥 케이스 기법
         // bus-car-taxi
+
+        // 상수 ~final~
+        // 스네이크 기법처럼 쓰지만 전부 대문자로 쓴다.
+        // BUS_CAR_TAXI
     }
 }

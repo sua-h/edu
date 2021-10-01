@@ -13,7 +13,7 @@ public class BreakExample2 {
 
         System.out.println("------------------------");
 
-        OUT_FOR :   // 레이블 (lable)
+        OUT_FOR :   // 레이블 (lable), 이름은 사용자 마음대로 정해도 되지만 주로 상수 형태로 적는다.
         for (int i = 0; i < 10; i++) {
             for (int j = 100; j < 110; j++) {
                 if (j == 103) {
