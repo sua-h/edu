@@ -1,7 +1,8 @@
 package ch04;
 
-public class ForExample4 {
+public class ForExample3 {
     public static void main(String[] args) {
+        // 구구단 출력하기
         int n = 10;
         int result;
 
